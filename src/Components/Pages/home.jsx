@@ -17,9 +17,6 @@ import { Autoplay, Pagination, Navigation } from 'swiper/modules';
 
 // Import AOS
 import AOS from 'aos';
-import image1 from "../../assets/image1.JPG";
-import image2 from "../../assets/image2.JPG";
-import image3 from "../../assets/image3.JPG";
 import image9 from "../../assets/image9.jpg";
 import banner2 from "../../assets/banner2.png";
 import banner5 from "../../assets/banner5.jpg";
